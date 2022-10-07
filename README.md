@@ -1,6 +1,7 @@
 - ## 👋 Oi, eu sou @imathendrik
 - 🌱  4/4 Tec. Informática 
 - 👀 18 anos
+- :sunny:Instagram @imat_hendrik
 - :envelope: Email de contato: hendrik.inacio@escola.pr.gov.br
 
 <!---
